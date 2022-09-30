@@ -5,11 +5,6 @@ A multithreaded script that will
 
 # Example
 c:\>find-lockingcomputer.ps1 -username mjake
-
-
-   User    LoggedOn        DC           Timestamp
-   ----    --------        --           ---------
-   mjake   CA-Win-1        LA-DC02      7/01/2022 8:38:11 AM
    
 # Dependencies
 1. Active Directory Module for Powershell
